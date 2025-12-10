@@ -15,6 +15,16 @@
       "category": "development"
     },
     {
+      "name": "ux_concepts",
+      "description": "Generate innovative UX concepts and wireframes for web and mobile applications, focusing on user-centric design principles and modern trends.",
+      "version": "1.0.0",
+      "author": {
+        "name": "ShintaroaSuzuki"
+      },
+      "source": "./plugins/ux_concepts",
+      "category": "development"
+    },
+    {
       "name": "commit-commands",
       "description": "Commands for git commit workflows including commit, push, and PR creation",
       "version": "1.0.0",
