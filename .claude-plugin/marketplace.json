@@ -15,13 +15,13 @@
       "category": "development"
     },
     {
-      "name": "ux_concepts",
+      "name": "ux-concepts",
       "description": "Generate innovative UX concepts and wireframes for web and mobile applications, focusing on user-centric design principles and modern trends.",
       "version": "1.0.0",
       "author": {
         "name": "ShintaroaSuzuki"
       },
-      "source": "./plugins/ux_concepts",
+      "source": "./plugins/ux-concepts",
       "category": "development"
     },
     {

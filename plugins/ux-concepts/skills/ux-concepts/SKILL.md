@@ -1,5 +1,5 @@
 ---
-name: ux_concepts
+name: ux-concepts
 description: Understand and apply psychological concepts to create superior user experiences (UX) in frontend design.
 ---
 
