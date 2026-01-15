@@ -33,6 +33,16 @@
       },
       "source": "./plugins/commit-commands",
       "category": "productivity"
+    },
+    {
+      "name": "codex-collaborator",
+      "description": "Assists in collaboration with Codex",
+      "version": "1.0.0",
+      "author": {
+        "name": "ShintaroaSuzuki"
+      },
+      "source": "./plugins/codex-collaborator",
+      "category": "productivity"
     }
   ]
 }
